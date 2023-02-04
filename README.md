@@ -9,6 +9,6 @@
 
 1. npm run storybook
 
-##To run the tests
+## To run the tests
 
 1. npm test
